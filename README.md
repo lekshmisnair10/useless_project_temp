@@ -1,4 +1,5 @@
-﻿# PUPPYSHAADI.MATRIMONY 🎯
+<img src="front.jpeg">
+ # PUPPYSHAADI.MATRIMONY 🎯
 
 ## Basic Details
 ### Team Name: 404:PURPOSE NOT FOUND
